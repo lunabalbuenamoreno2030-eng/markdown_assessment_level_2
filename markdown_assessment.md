@@ -23,3 +23,9 @@ console.log ("You get a free cookie!");
 console.log ("Add $2 more for a free cookie!");
 } 
 ```
+___  
+ ## What Customers Are Saying
+ "Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
+ 
+
+
