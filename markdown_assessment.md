@@ -26,6 +26,15 @@ console.log ("Add $2 more for a free cookie!");
 ___  
  ## What Customers Are Saying
  "Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
- 
+ ___ 
+ ## Find Us Online
+ Follow our daily location on Instagram, or read our reviews on Yelp.
+
+Want to build an app like ours? Start learning here:
+- freeCodeCamp
+- MDN Web Docs 
+___ 
+`git push origin main` - the command we run every time we add a new item to the menu!
+
 
 
